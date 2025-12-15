@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6uxjxtu5iyla"
+path="res://.godot/imported/sci_fi_select_big.wav-4fca80caeae314e8a2a3e9b8692e4581.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/UI/sci_fi_select_big.wav"
+dest_files=["res://.godot/imported/sci_fi_select_big.wav-4fca80caeae314e8a2a3e9b8692e4581.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

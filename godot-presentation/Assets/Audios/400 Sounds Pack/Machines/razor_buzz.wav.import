@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://yp1bq8sks7hn"
+path="res://.godot/imported/razor_buzz.wav-7bd77bef878e8f505e7848576bd7ab4d.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/Machines/razor_buzz.wav"
+dest_files=["res://.godot/imported/razor_buzz.wav-7bd77bef878e8f505e7848576bd7ab4d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

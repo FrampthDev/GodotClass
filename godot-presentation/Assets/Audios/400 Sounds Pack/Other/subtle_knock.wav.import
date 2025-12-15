@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cx5b0l6ltddd0"
+path="res://.godot/imported/subtle_knock.wav-f53475f58aff3c4d2700439517834b23.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/Other/subtle_knock.wav"
+dest_files=["res://.godot/imported/subtle_knock.wav-f53475f58aff3c4d2700439517834b23.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

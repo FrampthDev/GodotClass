@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c0aiv6sbbhryb"
+path="res://.godot/imported/gurgling.wav-16b79c1dd6f128ed6b7460072e071dce.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/Environment/gurgling.wav"
+dest_files=["res://.godot/imported/gurgling.wav-16b79c1dd6f128ed6b7460072e071dce.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

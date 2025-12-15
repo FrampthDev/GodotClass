@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ckqecpinm4nr1"
+path="res://.godot/imported/foley_footstep_gravel_3.wav-b1427d7b9a623bbcf486fa7ba84d6128.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/Footsteps/foley_footstep_gravel_3.wav"
+dest_files=["res://.godot/imported/foley_footstep_gravel_3.wav-b1427d7b9a623bbcf486fa7ba84d6128.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

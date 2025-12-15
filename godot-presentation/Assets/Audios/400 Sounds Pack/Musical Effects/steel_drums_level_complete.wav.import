@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d0nsw7p6s3hpi"
+path="res://.godot/imported/steel_drums_level_complete.wav-0cf9ec4e63b4f39db04c98aa36a8b4f4.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/Musical Effects/steel_drums_level_complete.wav"
+dest_files=["res://.godot/imported/steel_drums_level_complete.wav-0cf9ec4e63b4f39db04c98aa36a8b4f4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

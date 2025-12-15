@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://735ny8wp4dfy"
+path="res://.godot/imported/applause.wav-2539684e8bfa48ce2a2136f170648bdf.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/400 Sounds Pack/Other/applause.wav"
+dest_files=["res://.godot/imported/applause.wav-2539684e8bfa48ce2a2136f170648bdf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

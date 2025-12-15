@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://fpsyv4vdofup"
+path="res://.godot/imported/Retro7.wav-cbf44e3b4fa3cc5f4121bf990a13562e.sample"
+
+[deps]
+
+source_file="res://Assets/Audios/UI Soundpack/UI Soundpack/WAV/Retro7.wav"
+dest_files=["res://.godot/imported/Retro7.wav-cbf44e3b4fa3cc5f4121bf990a13562e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
